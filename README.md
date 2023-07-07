@@ -62,7 +62,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-<img src="https://drive.google.com/drive/u/1/my-drive?q=after:2023-07-07%20parent:0AJYCwjvaCf_wUk9PVA.jpg" alt="drawing" width="50"/>
+
   </span>
     
 ##
