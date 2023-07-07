@@ -18,7 +18,7 @@
 <br><br>
 
 
-## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor, Youtuber  & A Competitive Programmer, online Trainer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor, looking for job </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
@@ -26,7 +26,7 @@
   
 - 👋 Hi, I’m @venky9911
 - 👀 I’m interested in ...Python Developer
-- 🌱 I’m currently learning ...Hyderabad
+- 🌱 I’m currently learning ...Python,Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...y.v.pandu999@gmail.com
   <br>
@@ -48,13 +48,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Django](https://img.shields.io/badge/django-4479A1?style=flat-square&logo=DJANGO&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+
 
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
@@ -62,7 +62,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/django.svg" alt="drawing" width="50"/>
   </span>
     
 ##
