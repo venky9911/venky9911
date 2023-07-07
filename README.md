@@ -18,7 +18,7 @@
 <br><br>
 
 
-## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor, looking for job </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An Python Developer </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
